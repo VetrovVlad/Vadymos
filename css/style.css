@@ -1,0 +1,67 @@
+.border{
+    border: 2px solid black;
+    padding: 0 7px;
+}
+@font-face {
+    font-family: 'Affectionately Yours';
+    src: url('../fonts/Affectionately\ Yours\ -\ TTF.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Handycheera Regular';
+    src: url('../fonts/Handycheera\ Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Aulyars Regular';
+    src: url('../fonts/Aulyars\ Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Andina Demo';
+    src: url('../fonts/Andina\ Demo.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CoalhandLuke TRIAL';
+    src: url('../fonts/CoalhandLuke\ TRIAL.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ComforterBrush-Regular';
+    src: url('../fonts/ComforterBrush-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Amsterdam_vp';
+    src: url('../fonts/Amsterdam_vp.ttf') format('truetype');
+}
+
+.fontAffectionatelyYours {
+    font-family: 'Affectionately Yours';
+}
+
+.fontAmsterdam {
+    font-family: 'Amsterdam_vp';
+}
+
+.fontHandycheeraRegular {
+    font-family: 'Handycheera Regular';
+}
+
+.fontAulyarsRegular {
+    font-family: 'Aulyars Regular';
+}
+
+.fontAndinaDemo {
+    font-family: 'Andina Demo';
+}
+
+.fontCoalhandLukeTRIAL {
+    font-family: 'CoalhandLuke TRIAL';
+}
+
+.fontComforterBrushRegular {
+    font-family: 'ComforterBrush-Regular';
+}
+
